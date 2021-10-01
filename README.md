@@ -1,2 +1,2 @@
 # Task-Master
-A simple To Do Task List including Date with Update and Delete features
+> A Simple Task Manager with Date time Feature to keep a track of Tasks...
